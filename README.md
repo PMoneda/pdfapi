@@ -11,9 +11,7 @@ Test:
   curl -X POST \
 http://localhost:8080/topdf \
 -d '<html>
-
 <body>
-
 <p><b>Get My PDF</b></p>
 </body>
 </html>'
